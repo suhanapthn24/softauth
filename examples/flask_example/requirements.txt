@@ -1,0 +1,2 @@
+softauth[flask]
+python-dotenv
