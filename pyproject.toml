@@ -9,7 +9,7 @@ description = "Zero-setup JWT authentication for FastAPI and Flask"
 readme = "README.md"
 license = { text = "MIT" }
 requires-python = ">=3.9"
-authors = [{ name = "softauth contributors" }]
+authors = [{ name = "Soft Tech Talks" }]
 keywords = ["authentication", "jwt", "fastapi", "flask", "security", "rbac"]
 classifiers = [
     "Development Status :: 4 - Beta",
@@ -66,10 +66,10 @@ dev = [
 softauth = "softauth.cli.commands:app"
 
 [project.urls]
-Homepage = "https://github.com/your-org/softauth"
-Repository = "https://github.com/your-org/softauth"
+Homepage = "https://github.com/suhanapthn24/softauth.git"
+Repository = "https://github.com/suhanapthn24/softauth.git"
 Documentation = "https://softauth.readthedocs.io"
-"Bug Tracker" = "https://github.com/your-org/softauth/issues"
+"Bug Tracker" = "https://github.com/suhanapthn24/softauth.git/issues"
 
 [tool.setuptools.packages.find]
 where = ["."]
